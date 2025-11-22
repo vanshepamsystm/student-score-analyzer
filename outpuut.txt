@@ -1,0 +1,4 @@
+Number of students: 4
+Average score: 79.25
+Highest score: Raghav (91)
+lowest score: Vidya (67)
